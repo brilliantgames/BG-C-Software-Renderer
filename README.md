@@ -4,7 +4,7 @@ Download the demo builds here: https://drive.google.com/file/d/1t6gpV3ZIbOMLGHG3
 
 Important Note About Unity:
 
-To run this in Unity, simply copy the 'Raster Engine' folder into your Unity project, it already contains the dll C++ engine in it's folder.  The Unity project provided is made in Unity 2018.4.2.6.  
+Note: We highly reccomend downloading the full project with the link above. That said, to run this code in Unity, simply copy the 'Raster Engine' folder into your Unity project, it already contains the dll C++ engine in it's folder.  The Unity project provided is made in Unity 2018.4.2.6.  
 However, it should still work in newer versions of Unity.
 
 Support:
