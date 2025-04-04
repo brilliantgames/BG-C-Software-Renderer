@@ -1,0 +1,46 @@
+﻿// Each #kernel tells which function to compile; you can have many kernels
+#pragma kernel CSMain
+
+// Create a RenderTexture with enableRandomWrite flag and set it
+// with cs.SetTexture
+RWTexture2D<float4> Result;
+StructuredBuffer<uint> buff;
+
+StructuredBuffer<float4> bufff;
+
+
+int width;
+int height;
+
+float4 ConvertByteToFloat4(uint colorData)
+{
+	float4 color;
+	color.r = (colorData & 0xFF) / 255.0;
+	color.g = ((colorData >> 8) & 0xFF) / 255.0;
+	color.b = ((colorData >> 16) & 0xFF) / 255.0;
+	color.a = ((colorData >> 24) & 0xFF) / 255.0;
+	return color;
+}
+
+
+
+bool UseFloat;
+
+[numthreads(8,8,1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+	if (id.x >= width || id.y >= height) return;
+
+    // TODO: insert actual code here!
+	int indx = (id.y * width) + id.x;
+
+	float4 col = 0;
+
+	if (UseFloat) 
+	{
+		col = bufff[indx];
+	}
+	else col = ConvertByteToFloat4(buff[indx]);
+
+    Result[id.xy] = col;
+}
