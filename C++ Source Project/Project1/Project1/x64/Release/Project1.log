@@ -1,0 +1,86 @@
+﻿  MainEngine.cpp
+  Parallel algorithms are only available with C++17 or later.
+f:\unity projects\project1\project1\mainengine.cpp(381): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(391): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(542): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(543): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(544): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(546): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(547): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(548): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(588): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(589): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(669): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(670): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(671): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(673): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(674): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(675): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(681): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(681): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(687): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(688): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(689): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(820): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(821): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(864): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(973): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(974): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(975): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(984): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(985): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(986): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(990): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1065): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1070): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1078): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1087): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1099): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1113): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1114): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1115): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1131): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1255): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1256): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1267): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1280): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1281): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1304): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1305): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1506): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1507): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1508): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1509): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1603): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1603): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1604): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1604): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1690): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1703): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1715): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1889): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2107): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2124): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2125): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2126): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2174): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2175): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2176): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2188): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2210): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2211): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2212): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(1615): warning C4101: 'uvw': unreferenced local variable
+f:\unity projects\project1\project1\mainengine.cpp(1441): warning C4101: 'pushdir': unreferenced local variable
+f:\unity projects\project1\project1\mainengine.cpp(2267): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2268): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2268): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2274): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\unity projects\project1\project1\mainengine.cpp(2274): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     Creating library F:\Unity Projects\Open Source CPlus Raster\CPlus Raster\Assets\Raster Engine\Engine DLL\RasterEngine.lib and object F:\Unity Projects\Open Source CPlus Raster\CPlus Raster\Assets\Raster Engine\Engine DLL\RasterEngine.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Project1.vcxproj -> F:\Unity Projects\Open Source CPlus Raster\CPlus Raster\Assets\Raster Engine\Engine DLL\RasterEngine.dll
